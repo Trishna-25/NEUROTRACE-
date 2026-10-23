@@ -159,19 +159,11 @@ NeuroTrace combines wearable hardware, embedded firmware, on-device AI, a mobile
 
 Sensors (Body + Environment) → ESP32 (Preprocessing + On-device AI) → Local Alerts (Vibration, LEDs, SMS) + SD Card Logging → Mobile App (BLE) → Firebase Cloud → AI/ML Analysis → Personalized Insights → User Action
 
-📄 **Architecture Diagram:** [View PDF](docs/architecture.pdf)
-
 ---
 
 ## 🎥 Demo Video
 
 ▶️ **Watch here:** https://youtu.be/siJPvkqTXEU
-
----
-
-## 📊 Presentation
-
-📄 **Project Presentation:** [View PDF](docs/presentation.pdf)
 
 ---
 
