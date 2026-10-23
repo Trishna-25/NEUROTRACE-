@@ -17,9 +17,9 @@ Member 4: Bala Sanjay R
 
 ## 🏫 College / Incubator Information
 
-- **College:** [College Name]
-- **Department:** [Department]
-- **City / State:** [City], Tamil Nadu, India
+- **College:** KIT-Kalaignarkarunanidhi Institute of Technology
+- **Department:** Electrical and Electronics Engineering
+- **City / State:** Coimbatore, Tamil Nadu, India
 
 ---
 
