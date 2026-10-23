@@ -165,7 +165,7 @@ Sensors (Body + Environment) → ESP32 (Preprocessing + On-device AI) → Local 
 
 ## 🎥 Demo Video
 
-▶️ **Watch here:** [Paste your unlisted YouTube link]
+▶️ **Watch here:** https://youtu.be/siJPvkqTXEU
 
 ---
 
