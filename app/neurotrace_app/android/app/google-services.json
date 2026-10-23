@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "144170656644",
+    "firebase_url": "https://neurotrace-25-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "neurotrace-25",
+    "storage_bucket": "neurotrace-25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144170656644:android:76d4f92a05d9ff303eb3d1",
+        "android_client_info": {
+          "package_name": "com.example.neurotrace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxaAipVvhzwCv1suLOpXn_7vqGRWEbv80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
