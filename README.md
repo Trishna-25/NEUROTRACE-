@@ -100,10 +100,9 @@ NeuroTrace combines wearable hardware, embedded firmware, on-device AI, a mobile
 ### Hardware
 - **ESP32** - Main controller with built-in Bluetooth Low Energy (BLE) and Wi-Fi
 - **MAX30100** - Heart rate and SpO2 measurement using PPG sensing
-- **TMP117** - High-precision skin temperature sensor
+- **DS18B20** - High-precision skin temperature sensor
 - **GSR Sensor** - Galvanic skin response for stress detection
 - **MPU6050** - Motion and activity tracking, also used to filter movement noise
-- **AHT20** - Ambient temperature and humidity
 - **BMP280** - Atmospheric pressure (weather-change trigger detection)
 - **BH1750** - Ambient light level (bright-light trigger detection)
 - **INMP441 (I2S microphone)** - Ambient noise level (noise trigger detection)
